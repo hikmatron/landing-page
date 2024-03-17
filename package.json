@@ -10,7 +10,6 @@
         "sass": "sass --watch public/assets/scss/style.scss:public/assets/css/style.css"
     },
     "dependencies": {
-        "@coreui/coreui": "^4.3.2",
         "@coreui/react": "^4.11.1",
         "animate.css": "^4.1.1",
         "atropos": "^1.0.2",
