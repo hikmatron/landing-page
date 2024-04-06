@@ -128,7 +128,82 @@ export default function HomeWeb3() {
               </div>
             </div>
           </CCarouselItem>
-        
+          <CCarouselItem>
+            <div className="block-banner background-shade-2 br30">
+              <div className="row flex-align-c">
+                <div className="col-lg-6">
+                  <div className="lg-pdl30 lg-pdr30 lg-pdt30 pdl100 pdr60">
+                    <div className="heading mb32">
+                      <div className="heading-sub">GROWTH METHODS</div>
+                      <h2 className="heading-title w500">NFT Marketplace</h2>
+                      <div className="heading-desc">
+                        It is a long established fact that a reader will be
+                        distracted by the readable content of a page when
+                        looking at its layout.
+                      </div>
+                    </div>
+                    <div className="button-wrap">
+                      <Link
+                        href="/contact-01"
+                        className="button text"
+                        title="Learn More"
+                      >
+                        Learn More{" "}
+                        <i className="las la-long-arrow-alt-right color-navy" />
+                      </Link>
+                    </div>
+                  </div>
+                </div>
+                <div className="col-lg-6">
+                  <div className="align-center">
+                    <img
+                      className="wow animate__animated animate__zoomIn"
+                      src="/assets/images/hw3-05.png"
+                      alt="Image"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </CCarouselItem>
+          <CCarouselItem>
+            <div className="block-banner background-shade-2 br30">
+              <div className="row flex-align-c">
+                <div className="col-lg-6">
+                  <div className="lg-pdl30 lg-pdr30 lg-pdt30 pdl100 pdr60">
+                    <div className="heading mb32">
+                      <div className="heading-sub">GROWTH METHODS</div>
+                      <h2 className="heading-title w500">NFT Marketplace</h2>
+                      <div className="heading-desc">
+                        It is a long established fact that a reader will be
+                        distracted by the readable content of a page when
+                        looking at its layout.
+                      </div>
+                    </div>
+                    <div className="button-wrap">
+                      <Link
+                        href="/contact-01"
+                        className="button text"
+                        title="Learn More"
+                      >
+                        Learn More{" "}
+                        <i className="las la-long-arrow-alt-right color-navy" />
+                      </Link>
+                    </div>
+                  </div>
+                </div>
+                <div className="col-lg-6">
+                  <div className="align-center">
+                    <img
+                      className="wow animate__animated animate__zoomIn"
+                      src="/assets/images/hw3-05.png"
+                      alt="Image"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </CCarouselItem>
          
         </CCarousel>{" "}
         {/* <Web3_Section1 /> */}

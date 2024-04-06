@@ -26,12 +26,7 @@ export default function Web3_Section2() {
                                     <div className="title">Global regions</div>
                                 </div>
                             </div>
-                            <div className="col-xl-3 col-lg-6">
-                                <div className="counter-box">
-                                    <div className="number"><span className="counter"><CounterUp count={10} time={1} /></span><span className="suffix">+</span></div>
-                                    <div className="title">Years in the industry</div>
-                                </div>
-                            </div>
+
                         </div>
                     </div>
                 </div>
