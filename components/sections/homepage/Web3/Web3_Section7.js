@@ -29,7 +29,7 @@ export default function Web3_Section7() {
             </div>
             <div className="col-lg-6">
               <div className="lg-mgt32">
-                <img src="/assets/images/hw3-08.png" alt="Image" />
+                <img src="/assets/images/product-delivery.png" alt="Image" />
               </div>
             </div>
           </div>

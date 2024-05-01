@@ -31,7 +31,7 @@ export default function Web3_Section1() {
                     |
                   </span>
                 </h2>
-                <div className="heading-desc">Buy Humans For Humans</div>
+                <div className="heading-desc">By Humans For Humans ❤️</div>
               </div>
             </div>
             <div className="col-lg-6">

@@ -93,21 +93,21 @@ export default function CanvasMenu() {
               data-wow
               animate__animated-delay="0s"
             >
-              <Link href="/">About Us</Link>
+              <Link href="/">Who?</Link>
             </li>
             <li
               className="wow animate__animated animate__fadeInLeft "
               data-wow
               animate__animated-delay="0.5s"
             >
-              <Link href="/">Careers</Link>
+              <Link href="/">+1 To Team</Link>
             </li>
             <li
               className="wow animate__animated animate__fadeInLeft "
               data-wow
               animate__animated-delay="1s"
             >
-              <Link href="/">Blogs</Link>
+              <Link href="/">To Read 🤓</Link>
             </li>
             <li
               className="wow animate__animated animate__fadeInLeft "
@@ -135,7 +135,7 @@ export default function CanvasMenu() {
               data-wow
               animate__animated-delay="1s"
             >
-              <Link href="/">x</Link>
+              <Link href="/">X</Link>
             </li>
           </ul>
         </nav>

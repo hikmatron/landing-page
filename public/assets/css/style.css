@@ -1,6 +1,7 @@
 @charset "UTF-8";
 body,
 .site-header.alway-dark {
+  --hikamtron-logo: "/assets/images/hikmatron-logo.svg";
   --sala-primary-navy: #0057fc;
   --sala-primary-navy-2: #7527eb;
   --sala-primary-dark: #111111;
@@ -31,6 +32,7 @@ body .site-header.sala-dark-scheme,
 body.sala-dark-scheme,
 .site-header.alway-dark .site-header.sala-dark-scheme,
 .site-header.alway-dark.sala-dark-scheme {
+  --hikamtron-logo: "/assets/images/hikmatron-logo-dark.svg";
   --sala-primary-navy: #0057fc;
   --sala-primary-navy-2: #7527eb;
   --sala-primary-dark: #ffffff;
