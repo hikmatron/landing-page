@@ -10,7 +10,9 @@ export default function ContactOne() {
                             <div className="contact-content">
                                 <div className="heading">
                                     <h2 className="heading-title">Let’s talk.</h2>
-                                    <div className="heading-desc">If you have any questions about the subscription or are not sure which plan is right for you, contact our team and let’s schedule a call.</div>
+                                    <div className="heading-desc">
+        Having something on your mind? Talk to us!
+        </div>
                                 </div>
                                 <div className="contact-boxs">
                                     <div className="row">
