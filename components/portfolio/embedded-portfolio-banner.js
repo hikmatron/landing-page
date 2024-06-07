@@ -1,5 +1,5 @@
 import Link from "next/link";
-export default function Design_Studio_Section1() {
+export default function Embedded_Portfolio_Banner() {
     return (
         <>
             <section className="section vh100 vh-align-bottom lg-pdt100">
