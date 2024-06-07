@@ -53,7 +53,7 @@ export default function Web3_Section3() {
               </div>
             </div>
                        <Link
-                    href="/portfolio/embedded-projects.js"
+                    href="/portfolio/embedded-projects"
                     className="button text"
                     title="Learn More"
                   >
