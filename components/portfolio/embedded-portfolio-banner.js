@@ -9,7 +9,7 @@ export default function Embedded_Portfolio_Banner () {
                             <div className="spdtb pdr50">
                                 <div className="heading heading-alway-white mb32">
                                     <div className="heading-sub">We're Hikmatron</div>
-                                    <h2 className="heading-title size-xl w400">A team of seasoned engineers with proven experience in developing top-notch embedded systems for clients all over the world.</h2>
+                                    <h2 className="heading-title size-xl w400">Want to develop top-notch embedded system projects for your business?</h2>
                                 </div>
                                 <div className="button-wrap">
                                     <Link href="/contact-01" className="button fullfield" title="Contact Us">Talk to Us!</Link>
