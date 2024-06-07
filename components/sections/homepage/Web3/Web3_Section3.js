@@ -52,6 +52,11 @@ export default function Web3_Section3() {
                 </div>
               </div>
             </div>
+                       <Link
+                    href="/portfolio/embedded-projects.js"
+                    className="button text"
+                    title="Learn More"
+                  >
             <div className="image-box">
               <div className="thumbnail">
                 <img src="/assets/images/hw3-04.png" alt="Thumbnail" />
@@ -64,7 +69,7 @@ export default function Web3_Section3() {
                 </div>
                 <div className="button-wrap">
                   <Link
-                    href="/contact-01"
+                    href="/portfolio/embedded-projects.js"
                     className="button text"
                     title="Learn More"
                   >
@@ -74,6 +79,7 @@ export default function Web3_Section3() {
                 </div>
               </div>
             </div>
+                      </Link>
           </div>
         </div>
       </section>
