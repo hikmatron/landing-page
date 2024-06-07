@@ -8,11 +8,11 @@ export default function Embedded_Portfolio_Banner () {
                         <div className="col-lg-6">
                             <div className="spdtb pdr50">
                                 <div className="heading heading-alway-white mb32">
-                                    <div className="heading-sub">I'm Kevin Kay</div>
-                                    <h2 className="heading-title size-xl w400">Senior digital designer based in London. Working in UI, UX, and product design.</h2>
+                                    <div className="heading-sub">We're Hikmatron</div>
+                                    <h2 className="heading-title size-xl w400">A team of seasoned engineers with proven experience in developing top-notch embedded systems for clients all over the world.</h2>
                                 </div>
                                 <div className="button-wrap">
-                                    <Link href="/contact-01" className="button fullfield" title="Hire me">Hire me</Link>
+                                    <Link href="/contact-01" className="button fullfield" title="Contact Us">Talk to Us!</Link>
                                 </div>
                             </div>
                         </div>
