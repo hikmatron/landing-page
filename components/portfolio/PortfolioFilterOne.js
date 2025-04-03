@@ -61,7 +61,8 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
 
             <div className={`grid ${portfolioStyle ? portfolioStyle : ""}`}>
                 <div className="grid-sizer" />
-                <div className={portfolio-item grid-item--width2 ${portfolioClass ? portfolioClass : ""} branding}>
+                <div className={`portfolio-item grid-item--width2 ${portfolioClass ? portfolioClass : ""} branding`}>
+
                     <article className="portfolio ">
                         <div className="entry-thumbnail">
                             <Link href="/" title="Dufa’s Burger">
@@ -78,7 +79,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item grid-item--width3 ${portfolioClass ? portfolioClass : ""} mockup}>
+                <div className={`portfolio-item grid-item--width3 ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
                             <Link href="/" title="Sala App">
@@ -87,7 +88,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                         <div className="entry-content">
                             <div className="entry-category">
-                                <Link href="/" title="Mockup">Mockup</Link>
+                                <Link href="/" title="iot">iot</Link>
                             </div>
                             <div className="entry-title">
                                 <h3><Link href="/" title="Sala App">Sala App 02</Link></h3>
@@ -95,7 +96,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item ${portfolioClass ? portfolioClass : ""} mockup}>
+                <div className={`portfolio-item ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
                             <Link href="/" title="Food Packaging">
@@ -104,7 +105,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                         <div className="entry-content">
                             <div className="entry-category">
-                                <Link href="/" title="Mockup">Mockup</Link>
+                                <Link href="/" title="iot">iot</Link>
                             </div>
                             <div className="entry-title">
                                 <h3><Link href="/" title="Food Packaging">Food Packaging 03</Link></h3>
@@ -112,7 +113,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item ${portfolioClass ? portfolioClass : ""} branding}>
+                <div className={`portfolio-item ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
                             <Link href="/" title="Calendar Design">
@@ -129,7 +130,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item ${portfolioClass ? portfolioClass : ""} mockup}>
+                <div className={`portfolio-item ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
                             <Link href="/" title="Packs Premade Scenes">
@@ -138,7 +139,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                         <div className="entry-content">
                             <div className="entry-category">
-                                <Link href="/" title="Mockup">Mockup</Link>
+                                <Link href="/" title="iot">iot</Link>
                             </div>
                             <div className="entry-title">
                                 <h3><Link href="/" title="Packs Premade Scenes">Packs Premade Scenes</Link></h3>
@@ -146,11 +147,11 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item ${portfolioClass ? portfolioClass : ""} branding}>
+                <div className={`portfolio-item ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
-                            <Link href="/" title="Magazine Mockup Bundle">
-                                <img src="/assets/images/portfolio-06.jpeg" alt="Magazine Mockup Bundle" />
+                            <Link href="/" title="Magazine iot Bundle">
+                                <img src="/assets/images/portfolio-06.jpeg" alt="Magazine iot Bundle" />
                             </Link>
                         </div>
                         <div className="entry-content">
@@ -158,12 +159,12 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                                 <Link href="/" title="Branding">Branding</Link>
                             </div>
                             <div className="entry-title">
-                                <h3><Link href="/" title="Magazine Mockup Bundle">Magazine Mockup Bundle</Link></h3>
+                                <h3><Link href="/" title="Magazine iot Bundle">Magazine iot Bundle</Link></h3>
                             </div>
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item ${portfolioClass ? portfolioClass : ""} design}>
+                <div className={`portfolio-item ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
                             <Link href="/" title="The Golo App">
@@ -180,7 +181,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item ${portfolioClass ? portfolioClass : ""} illustrator}>
+                <div className={`portfolio-item ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
                             <Link href="/" title="Yeeow! Illustration Kit">
@@ -197,7 +198,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item ${portfolioClass ? portfolioClass : ""} design}>
+                <div className={`portfolio-item ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
                             <Link href="/" title="Waaahh! Illustration Kit">
@@ -214,7 +215,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item ${portfolioClass ? portfolioClass : ""} illustrator}>
+                <div className={`portfolio-item ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
                             <Link href="/" title="Whoosh! Illustration Kit">
@@ -231,7 +232,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item ${portfolioClass ? portfolioClass : ""} mockup}>
+                <div className={`portfolio-item ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
                             <Link href="/" title="Brochure Folder Letter">
@@ -240,7 +241,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                         <div className="entry-content">
                             <div className="entry-category">
-                                <Link href="/" title="Mockup">Mockup</Link>
+                                <Link href="/" title="iot">iot</Link>
                             </div>
                             <div className="entry-title">
                                 <h3><Link href="/" title="Brochure Folder Letter">Brochure Folder Letter</Link></h3>
@@ -248,7 +249,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         </div>
                     </article>
                 </div>
-                <div className={portfolio-item ${portfolioClass ? portfolioClass : ""} branding}>
+                <div className={`portfolio-item ${portfolioClass ? portfolioClass : ""} iot`}>
                     <article className="portfolio">
                         <div className="entry-thumbnail">
                             <Link href="/" title="Business & Leather Card">
