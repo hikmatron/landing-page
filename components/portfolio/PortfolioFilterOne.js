@@ -45,7 +45,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                     <button className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>
                         All <span>(12)</span>
                     </button>
-                    // <button className={activeBtn("ecommerce")} onClick={handleFilterKeyChange("ecommerce")}> E-Commerce <span>(2)</span></button>
+                    
                     <button className={activeBtn("webapps")} onClick={handleFilterKeyChange("webapps")}>
                         Web Apps <span>(4)</span>
                     </button>
@@ -55,16 +55,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                     <button className={activeBtn("iot")} onClick={handleFilterKeyChange("iot")}>
                         IoT <span>(4)</span>
                     </button>
-                    // <button className={activeBtn("design")} onClick={handleFilterKeyChange("design")}>Ui/Ux Design <span>(2)</span></button>
-                    // <button className={activeBtn("mockup")} onClick={handleFilterKeyChange("mockup")}>
-                    //     Mockup <span>(4)</span>
-                    // </button>
-                    // <button className={activeBtn("illustrator")} onClick={handleFilterKeyChange("illustrator")}>
-                    //     Illustrator <span>(2)</span>
-                    // </button>
-                    // <button className={activeBtn("branding")} onClick={handleFilterKeyChange("branding")}>
-                    //     Branding <span>(4)</span>
-                    // </button>
+
                 </div>
             </div>
 
