@@ -8,7 +8,7 @@ export default function PorfolioMinimalGrid() {
     return (
         <>
             <Layout
-                pageTitle="Minimal  Grid"
+                pageTitle="A Glimpse on our work"
                 pageTitleDesc="Take a look at our recent projects"
             >
                 <div className="container">
