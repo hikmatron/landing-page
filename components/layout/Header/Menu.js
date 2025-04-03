@@ -15,7 +15,7 @@ export default function Menu() {
 
         <ul>
           <li className="is-mega-menu">
-            <Link href="/portfolio-minimal-grid/">
+            <Link href="/portfolio/portfolio-minimal-grid">
               Done! <span className="toggle-sub-menu"></span>
             </Link>{" "}
           </li>
