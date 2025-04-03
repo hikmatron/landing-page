@@ -59,7 +59,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                 </div>
             </div>
 
-            <div className={grid ${portfolioStyle ? portfolioStyle : ""}}>
+            <div className={`grid ${portfolioStyle ? portfolioStyle : ""}`}>
                 <div className="grid-sizer" />
                 <div className={portfolio-item grid-item--width2 ${portfolioClass ? portfolioClass : ""} branding}>
                     <article className="portfolio ">
