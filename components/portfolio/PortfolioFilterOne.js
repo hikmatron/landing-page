@@ -26,8 +26,8 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
     useEffect(() => {
         if (isotope.current) {
             filterKey === "*"
-                ? isotope.current.arrange({ filter: * })
-                : isotope.current.arrange({ filter: .${filterKey} });
+                ? isotope.current.arrange({ filter: "*" })
+                : isotope.current.arrange({ filter: `.${filterKey}` });
         }
     }, [filterKey]);
     const handleFilterKeyChange = useCallback((key) => () => {
