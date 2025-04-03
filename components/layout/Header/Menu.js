@@ -15,7 +15,7 @@ export default function Menu() {
 
         <ul>
           <li className="is-mega-menu">
-            <Link href="/portfolio/index">
+            <Link href="/portfolio/>
               Done!
             </Link>{" "}
           </li>
