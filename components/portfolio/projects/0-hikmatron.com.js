@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function DufasBurger({ portfolioClass }) {
+export default function hikmatronCom({ portfolioClass }) {
     return (
         <div className={`portfolio-item grid-item--width2 ${portfolioClass ? portfolioClass : ""} branding`}>
             <article className="portfolio">
