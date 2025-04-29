@@ -2,7 +2,7 @@ import Isotope from "isotope-layout";
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 // Dynamically import all JSON files from the ./projects directory
-const projectFiles = require.context("../../projects", false, /\.json$/);
+const projectFiles = require.context("./projects", false, /\.json$/);
 const projects = projectFiles.keys().map((file) => projectFiles(file));
 
 export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
