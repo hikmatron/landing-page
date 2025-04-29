@@ -3,7 +3,10 @@ import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 // Dynamically import all JSON files from the ./projects directory
 const projectFiles = require.context("./projects", false, /\.json$/);
-const projects = projectFiles.keys().map((file) => projectFiles(file));
+const uprojects = projectFiles.keys().map((file) => projectFiles(file));
+// Remove duplicates (if any) by filtering unique projects based on a unique property like `title`
+const projects = Array.from(new Map(uprojects.map((item) => [item.title, item])).values());
+
 
 export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
     const isotope = useRef();
