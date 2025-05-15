@@ -1,0 +1,8 @@
+{
+  "title": "IGP Campus Web",
+  "image": "/assets/images/portfolio-igp.jpg",
+  "alt": "IGP Campus Web",
+  "category": "webapps",
+  "link": "https://www.igpcampus.lk/",
+  "description": "🎓 IGP Campus – Vocational & Tertiary Education Platform (Sri Lanka)\n\n**Overview:**\nIGP Campus is an educational platform offering vocational and tertiary education programs in Sri Lanka. The website provides information on various diploma courses, study and migration opportunities, and student testimonials.\n\n**Key Features:**\n- **Course Listings:** Detailed information on diploma programs such as Social Work in Health Care, Building & Construction, Computer Applications & Graphic Design, Early Childhood Education & Primary Care, and Physiotherapy.\n- **Study & Migration:** Guidance on studying abroad and migration services in partnership with Oz Study & Migration Agency.\n- **Certificate Verification:** Online tool for verifying student certificates.\n- **Student Testimonials:** Real-life success stories from alumni.\n\n**Tech Stack:**\n- HTML, CSS, JavaScript\n- PHP\n- MySQL Database\n\n**Role:**\nWeb design and development, content integration, and deployment."
+}
