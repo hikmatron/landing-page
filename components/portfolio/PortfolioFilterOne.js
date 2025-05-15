@@ -84,10 +84,13 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                                 <div className="entry-title">
                                     <h3>
                                         <Link href={project.link} title={project.title}>
-                                            {project.description}
+                                            {project.description.length > 100
+                                                ? `${project.description.slice(0, 100)}...`
+                                                : project.description}
                                         </Link>
                                     </h3>
                                 </div>
+
                             </div>
                         </article>
                     </div>
