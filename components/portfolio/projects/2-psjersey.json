@@ -1,0 +1,39 @@
+{
+    "title": "PS Jersey Web",
+    "image": "/assets/images/portfolio-02.jpg",
+    "alt": "PS Jersey Web",
+    "category": "webapps",
+    "link": "/",
+    "description": "🏏 PS Jersey – Custom Sportswear E-Commerce Website (Sri Lanka)
+Overview:
+PS Jersey is a dynamic e-commerce website built for PrintInk Station, a leading Sri Lankan brand specializing in customized sports fan jerseys. The site offers a clean, responsive shopping experience tailored for cricket and football fans across the island.
+
+Key Features:
+
+Custom Jersey Builder: Customers can personalize jerseys with names and numbers before purchase.
+
+Category-Based Navigation: Organized by teams, tournaments (e.g., IPL, ODI World Cup), and jersey types.
+
+Secure Payment Integration: Payments handled through trusted third-party gateways like PayHere.lk.
+
+Mobile-Optimized UI: Built with a mobile-first approach for fast browsing and checkout.
+
+Order Management System: Streamlined backend to manage customized orders, uploads, and customer communication.
+
+Privacy & Compliance: Fully documented Privacy Policy and Terms & Conditions for user data protection and trust.
+
+Tech Stack:
+
+WordPress + WooCommerce
+
+Custom Elementor Styling
+
+3rd-Party Payment Integration
+
+Email & Form Handling
+
+Google Analytics + SEO Optimization
+
+Role:
+Design, development, e-commerce configuration, customization logic, legal policy drafting, and deployment.b"
+  }
