@@ -1,0 +1,8 @@
+{
+  "title": "Jaffna Monitor Web",
+  "image": "/assets/images/portfolio-jaffna-monitor.jpg",
+  "alt": "Jaffna Monitor Web",
+  "category": "webapps",
+  "link": "https://www.jaffnamonitor.com/",
+  "description": "📰 Jaffna Monitor – Independent Tamil News & Commentary Platform (Sri Lanka)\n\n**Overview:**\nJaffna Monitor is an independent digital media platform based in Sri Lanka, dedicated to delivering in-depth journalism, opinion pieces, and cultural commentary. The website serves as a voice for the Tamil-speaking community, focusing on regional issues, politics, and social narratives.\n\n**Key Features:**\n- **Diverse Content Categories:** Includes sections like Sri Lanka, Opinion, Interviews, Monitor Memo, International, Series, Stories, Sports, and Local/Jaffna.\n- **Contributor Submissions:** Encourages aspiring writers, observers, and students to share unique perspectives, ensuring a platform for diverse voices.\n- **E-Books and Series:** Offers serialized content and downloadable materials for readers seeking comprehensive insights.\n- **Responsive Design:** Optimized for various devices, ensuring accessibility and a seamless user experience.\n\n**Tech Stack:**\n- WordPress CMS\n- Custom Theme Development\n- Responsive Web Design\n- SEO Optimization\n\n**Role:**\nWebsite development, content structuring, theme customization, and deployment."
+}
