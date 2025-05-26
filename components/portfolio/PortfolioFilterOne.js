@@ -70,7 +70,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                         className={`portfolio-item ${portfolioClass ? portfolioClass : ""} ${project.category.toLowerCase()}`}
                     >
                         <article className="portfolio">
-                            <div className="entry-thumbnail">
+                            <div className="entry-thumbnail" style={{ height: "350px" }}>
                                 <Link href={project.link} title={project.title}>
                                     <img src={project.image} alt={project.alt} />
                                 </Link>
@@ -85,7 +85,7 @@ export default function PortfolioFilterOne({ portfolioStyle, portfolioClass }) {
                                     <h3>
                                         <Link href={project.link} title={project.title}>
                                             {project.description.length > 100
-                                                ? `${project.description.slice(0, 100)}...`
+                                                ? `${project.description.slice(0, 50)}...`
                                                 : project.description}
                                         </Link>
                                     </h3>
